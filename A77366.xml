@@ -1,0 +1,1125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Honourable House of Commons, at their publique fast, Novemb. 29. 1643. By VVilliam Bridge, sometimes fellow of Emanuel Colledge in Cambridge, now preacher of Gods Word at Yarmouth.</title>
+            <author>Bridge, William, 1600?-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77366</idno>
+            <idno type="STC">Wing B4465</idno>
+            <idno type="STC">Thomason E79_11</idno>
+            <idno type="STC">ESTC R13662</idno>
+            <idno type="EEBO-CITATION">99859515</idno>
+            <idno type="PROQUEST">99859515</idno>
+            <idno type="VID">111601</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77366)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111601)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E79[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Honourable House of Commons, at their publique fast, Novemb. 29. 1643. By VVilliam Bridge, sometimes fellow of Emanuel Colledge in Cambridge, now preacher of Gods Word at Yarmouth.</title>
+                  <author>Bridge, William, 1600?-1670.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Dawlman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.XLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon preached at the late fast, before the Honourable House of Commons.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Zechariah II, 1, 18-21 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111601:1" rendition="simple:additions"/>
+            <p>A SERMON <hi>PREACHED</hi> Before the Honourable Houſe of COMMONS, <hi>At their Publique</hi> FAST, <hi>Novemb.</hi> 29. 1643.</p>
+            <p>
+               <hi>BY</hi> VVILLIAM BRIDGE, ſometimes Fellow of <hi>Emanuel</hi> Colledge in <hi>Cambridge,</hi> now Preacher of Gods Word at <hi>Yarmouth.</hi>
+            </p>
+            <q>
+               <bibl>REVEL. 16. 15.</bibl> Behold I come as a theef, bleſſed is he that watcheth, and keepeth his garments leſt he walke naked, and they ſee his ſhame.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for R. DAWLMAN. <hi>M. DC. XLIII.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:111601:2"/>
+            <pb facs="tcp:111601:2"/>
+            <head>TO THE HONORABLE THE KNIGHTS, Citizens, and Burgeſſes of the Commons Houſe of Parliament.</head>
+            <opener>
+               <salute>Right worthy Senators,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Ccording unto your command I have preſent<g ref="char:EOLhyphen"/>ed theſe notes unto your hands &amp; the worlds view; give me leave withall to preſent my humble thankfulnes, for your unwearied labour of love to theſe three Kingdoms, and in them unto all the Churches of Chriſt: for as once the</hi> Poles <hi>Ambaſſador ſaid in regard of the Turk,</hi> Per latus Poloniae petunt Europam, <hi>I may ſay in regard of your and our enemies, through the ſides of England, Scotland and Ireland, they ſtrike at all that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> truely called Chriſten<g ref="char:EOLhyphen"/>dome, your wiſdome therefore doth well to make good theſe paſſages.</hi>
+            </p>
+            <p>
+               <hi>It is true indeed your work is, 1. great, but it is for the</hi>
+               <note place="margin">
+                  <hi>Sicut calere contra frigi<g ref="char:EOLhyphen"/>dum hoc eſt re<g ref="char:EOLhyphen"/>pugnare frig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>do, virtutis eſt<g ref="char:punc">▪</g> atque vigoris, ſic amare<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t appet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re<g ref="char:punc">▪</g> inſua<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> moleſtum, &amp;c.</hi> Pariſ. de fide.</note> 
+               <hi>great God, and</hi> Solomon <hi>ſaith,</hi> The houſe that I build is great, for great is our God, 2 Chron. 2. 5. <hi>Shall not we do great things for him who hath done and ſuffered great things for us, and by us?</hi>
+            </p>
+            <p n="2">2. <hi>Your worke is clogged with many difficulties; but if it were not ſo, how ſhould the ſtrength of your love appeare either to your God, or to your Country? a man may be ſaid to
+<pb facs="tcp:111601:3"/> love the truth before the winde of oppoſition riſeth, but he cannot be ſaid to hold it faſt or cleave unto it till he meets with ſome that would take it from him,</hi> Deut. 13. 1, 2, 3, 4. <hi>Difficulty doth commend duty; there was a ſtone rolled upon Chriſts grave, And there is a difficulty rolled upon every truth or way of God, which through the evil of the times hath been buried; But when you come to the graves mouth, the place where you think to meet with moſt diffi<g ref="char:EOLhyphen"/>cultie,</hi>
+               <note place="margin">Operum diffi<g ref="char:EOLhyphen"/>cultates coelo<g ref="char:EOLhyphen"/>tum ſaa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tates conſequuntu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>there, and then, the ſtone ſhall be rolled away. The more difficulty in doing, the more ſweetnes in the work done.</hi>
+            </p>
+            <p n="3">3. <hi>Your work is berounded with many dangers, but the</hi>
+               <note place="margin">Nec menda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ii utilitas eſt diuturna, nec veritatis damnum diu nocet.</note> 
+               <hi>neglect of it is more dangerous, and the frown of a Prince may ſometimes ſtand with the favour of God; neither ſhall flattery alwayes hold in credit, nor truth ever continue in diſgrace.</hi>
+            </p>
+            <p n="4">4. <hi>Your work is reproached ſometimes, and calumni<g ref="char:EOLhyphen"/>ated by divers adverſaries; But as</hi> Seneca <hi>ſaid to his friend</hi> (male de te loquuntur homines, ſed mali) <hi>ſo</hi>
+               <note place="margin">
+                  <hi>Cur reſpondet Sacerdoti, ſed Peninnae non reſpondeat Anna? quia Peninna <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rat perſona priva<g ref="char:EOLhyphen"/>ta, ſacerdos autem publica: item Peninna loquebatur ex odio, ſacerdos ex zelo: unde allud negligen<g ref="char:EOLhyphen"/>dum e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at, ille inſtruendus.</hi> Mend. in Sam.</note> 
+               <hi>may I ſay to you, Men ſpeak evil of you, but they are evil men, and it may be, yea tis likely, God will heare the language of your</hi> Peninnahs, <hi>&amp; make you the more fruit<g ref="char:EOLhyphen"/>full, eſpecially you doing as</hi> Hanna <hi>did, who though ſhe was willing to anſwer to the charge of</hi> Eli, <hi>becauſe he did ſpeak from Zeale, yet ſhe would not anſwer the reproach of</hi> Pe<g ref="char:EOLhyphen"/>ninnah, <hi>becauſe ſhe ſpake from hatred. Surely Malig<g ref="char:EOLhyphen"/>nants clamours are beſt anſwered when neglected.</hi> Tutius aliquando agit qui calumnias non exaudit; <hi>Jeſus Chriſt was eclipſed, that Gods ſervants might ſhine.</hi>
+            </p>
+            <p n="5">5. <hi>Your work alſo is or may be diſadvantagious unto
+<pb facs="tcp:111601:3"/> your own particular intereſts, your publike imployments cannot but hinder your private affaires, yet be pleaſed to remember</hi> Moſes <hi>and</hi> Joſhua, <hi>who were men of great ſervice in their generation, having as full an opportunity to have made themſelves rich as ever men had, yet we do not read of any great lot they ſhared out to themſelves or their poſterity: You are now employed upon Gods ſervice, As for your own private affaires, if you afford them ſome Reliques of your love, and ſo much onely as the publike</hi>
+               <note place="margin">
+                  <hi>Toleramus po<g ref="char:EOLhyphen"/>tius praeſentia quam diliga<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> Aug.</note> 
+               <hi>leaves, it is enough; for what is too cold for God, is hot enough for the world; yet as the baggage unto an Army, ſo are things temporall to ſpirituall, and perſonall eſtates to publike employments.</hi>
+            </p>
+            <p>
+               <hi>And in the throng of all your diſcouragements, be plea<g ref="char:EOLhyphen"/>ſed alſo to remember how good, how honourable, how ſuc<g ref="char:EOLhyphen"/>ceſſefull your ſervice is and will be.</hi>
+            </p>
+            <p>
+               <hi>Tis good, firſt, in regard of the State; for you are now in travail for your Countries liberty, which though it may ſtick ſome time in the birth, and a dragon ſtand before you to devoure it before it is borne, yet in due time it ſhal be brought forth, and we ſhall not onely be</hi> liberati, <hi>but</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Qui diruit ma<g ref="char:EOLhyphen"/>ceriam, eum mordebit ſer<g ref="char:EOLhyphen"/>pens: qui legum conſtitutiones impingit, non feret impune; qui Religionis ſacra violat, non erit a poe<g ref="char:EOLhyphen"/>na immunis.</hi> Druſius pro<g ref="char:EOLhyphen"/>verb.</note> liberi. <hi>The Hebrews have a Proverb which they have borrowed of</hi> Solomon, <hi>That</hi> Whoſo breaketh down the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edge, ſhall be bitten with ſerpents. <hi>The hedges of the State or Church are the Laws, (as</hi> Druſius <hi>inter<g ref="char:EOLhyphen"/>prets it) or the Ordinances thereof: Thoſe enemies of yours or ours, that have or would tread down our hedges even to the ground, ſhall not ever goe unpuniſhed. When the hedge is loweſt, the ſerpent is neareſt.</hi>
+            </p>
+            <p n="2">2. <hi>Good in regard of the Churches; for through your paines and labour of love, thoſe ſwelling parts (I had al<g ref="char:EOLhyphen"/>moſt ſaid wens) which engroſſed all the outward nutri<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:111601:4"/> unto themſelves, (the direfull preſage of a peoples</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in corpore humano (cui <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> epi<g ref="char:EOLhyphen"/>ſtolarum ſua<g ref="char:EOLhyphen"/>rum paſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> compa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) quod ſi nut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>imentum luit ad unum membrum, ita ut <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>miter in<g ref="char:EOLhyphen"/>groſſetur &amp; al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> attenuatione demacerentur nonpoteſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>; ſicin c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rpore Eccleſ. ſi ſupe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iore<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fiant ita graves attractione ſubſtantiae quod in<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>res vix poſſunt pra inopia ſe ſuſtinere, hoc eſt ſignum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am prop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nquae ruinae.</hi> Gerſom.</note> 
+               <hi>death and ruine, ſaith</hi> Gerſom) <hi>are either taken off, or made more proportionable.</hi>
+            </p>
+            <p n="2">2. <hi>Your ſervice is very honorable; for what greater honour, then under Ieſus Chriſt, to be your Countries ſa<g ref="char:EOLhyphen"/>viours, and your Lords ſervants? Vpon</hi> Moſes <hi>death it was ſaid,</hi> Moſes the ſervant of the Lord is dead; <hi>not</hi> Moſes <hi>the Prince of the people, but the ſervant of the Lord: So Pſalme 18. in the Title of the Pſalme it is ſaid,</hi> A Pſalme of David the ſervant of the Lord; <hi>not a Pſalme of</hi> David <hi>the Anointed King of Iſrael; but as if it were more honour to be Gods ſervant, then Iſraels King, tis ſaid the ſervant of the Lord: ſuch honour have all our Worthies.</hi>
+            </p>
+            <p n="3">3. <hi>Your ſervice is and will be moſt ſucceſſefull; tis truth you ſtand for; And though the truth may labour, (as</hi> Hie<g ref="char:EOLhyphen"/>rom<note place="margin">
+                  <hi>Veritas labora<g ref="char:EOLhyphen"/>re poteſt, vinci non poteſt.</hi> Hier. <hi>Quid enim <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> lo inexpugna<g ref="char:EOLhyphen"/>bilius? v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ritas arcem in coel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> collocavit.</hi> Pſ. 119. Mend.</note> 
+               <hi>ſpeakes) it cannot be overcome; For what (ſaith</hi> Mendoza) <hi>is more impregnable then the Heavens? and Truth hath built it ſelfe a towre there.</hi> Thy word, O Lord, is ſetled in the Heavens, <hi>Pſal. 119. Wherefore worthy Sirs, as heretofore, ſo now much more be alwayes abounding in the worke of the Lord, in due time you ſhall reape if you faint not. If you want money to carry on your (yet not your, but Gods) publique Deſigne, remember what was promiſed unto</hi> Cyrus, <hi>who in regard of re-building the Temple, was to doe your worke in the type:</hi> I will<note place="margin">Eſay 45. 2, 3.</note> goe before thee, ſaith God, and make the crooked places ſtreight; I will breake in pieces the Gates
+<pb facs="tcp:111601:4"/> of braſſe, and cut in ſunder the barres of iron, and will give thee the treaſures of darkneſſe, and hidden riches of ſecret places. <hi>And doth not your owne expe<g ref="char:EOLhyphen"/>rience tell you, thus, even thus hath our God dealt by us? for the treaſures of darkeneſſe, and hidden riches of ſecret places have beene brought forth unto us; Gold and ſilver that hath not ſeene the light for many yeares before: God is the ſame God ſtill, and his promiſe, which is your Mint, the ſame.</hi>
+            </p>
+            <p>
+               <hi>If you want outward ſtrength and power, then remem<g ref="char:EOLhyphen"/>ber how often when the Iews were to build the Temple, and therein to meet with enemies; the Lord inculcates that his Attribute upon them, The Lord of Hoſts,</hi> (Thus ſaith the Lord of Hoſts) <hi>thrice in one verſe,</hi> Zach. 15. 3. <hi>and five times in foure ſhort verſes,</hi> Hag. 2. Silver is mine, and gold is mine, ſaith the Lord of Hoſts; I will fill this houſe with my glory, ſaith the Lord of Hoſts, &amp;c.</p>
+            <p>
+               <hi>And if you finde not the hearts of the people comming up alwayes to your forwardneſſe, then your wiſdome know<g ref="char:EOLhyphen"/>eth how to improve the heates of their hearts while they laſt; all things you know are eaſie and</hi> beautifull in their ſeaſon; And becauſe men know not time and judge<g ref="char:EOLhyphen"/>ment<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> therefore their miſery is great upon them.</p>
+            <p>
+               <hi>But above all things let your eye be upon that moſt which Gods eye is moſt upon, Truth, Reformation, and pure Re<g ref="char:EOLhyphen"/>ligion; State-hypocrites deſire truth for peace ſake, god<g ref="char:EOLhyphen"/>ly Stateſ-men deſire peace for truths ſake; warre is for peace, but peace for truth: Wherefore that I may ſerve you herein, I take the boldneſſe to lay theſe few lines be<g ref="char:EOLhyphen"/>fore you.</hi>
+            </p>
+            <p>
+               <hi>The Sermon calleth for exactneſſe of Reformation; if I
+<pb facs="tcp:111601:5"/> have not beene exact whilſt I have called for exactneſſe, your goodneſſe knoweth as well how to connive at what is mine, as to embrace what is God. Goe on right worthy Patriots, ſtill to defend your Countrey, to contend for truth, to be willing to loſe and be loſt for Chriſt; whilſt I live I ſhall live praying for you, and when I dye I hope I ſhal dye praiſing God for you.</hi>
+            </p>
+            <closer>
+               <signed>Your humble ſervant in the <hi>Goſpell of Ieſus Chriſt,</hi> WILLIAM BRIDGE.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>Die Mercurii 29. November. 1643.</head>
+            <p>IT is this day Ordered by the Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament, that Sir <hi>Robert Harley</hi> doe give thanks unto M. <hi>Bridge,</hi> for the great paines he tooke in the Sermon he preached this da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (at the intreaty of the Commons) at S. <hi>Margarets</hi> Weſtm. it being the day of publique Humiliation, and to deſire him to print his Sermon.</p>
+            <closer>
+               <signed>H. Elſyng Cler. Parl. D Com.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:111601:5"/>
+            <head>A SERMON Preached at the Late Faſt, before the Honourable Houſe of COMMONS.</head>
+            <epigraph>
+               <bibl>ZECHARIAH, CHAP. 2. VER. 18, 19, 20, 21. And CHAP. 2. VER. 1.</bibl>
+               <q>18. <hi>Then lift I up mine eyes, and ſaw, and behold foure borns.</hi>
+               </q>
+               <q>19. <hi>And I ſaid unto the Angel that talked with me, What be theſe? And he anſwered me, Theſe are the horns which have ſcattered Iudah, Iſrael, and Ieruſalem.</hi>
+               </q>
+               <q>20. <hi>And the Lord ſhewed me foure carpenters.</hi>
+               </q>
+               <q>21. <hi>Then ſaid I, What come theſe to doe? and he ſpake, ſaying, Theſe are the horns which have ſcattered Iudah, ſo that no man did lift up his head: but theſe are come to fray them, to caſt out the hornes of the Gentiles, which lift up their horne over the land of Iudah to ſcatter it.</hi>
+               </q>
+               <q>1. <hi>I lift up mine eyes againe, and looked, and behold, a man with a meaſuring line in his hand.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough according to our Engliſh Tranſlation theſe words are parts of ſeverall Chapters, yet in many He<g ref="char:EOLhyphen"/>brew Copies the ſecond Chapter be<g ref="char:EOLhyphen"/>gins where my Text doth, and they have ſuch connexion that I may not part them.</p>
+            <p>Three things there are which this Age of ours hath brought forth: Malignant enemies: Spe<g ref="char:EOLhyphen"/>ciall inſtruments of their ruine: And great endeavours for Reformation. Accordingly here are three Viſions; A Viſion
+<pb n="2" facs="tcp:111601:6"/> of <hi>foure hornes, ver.</hi> 18, 19. A Viſion of <hi>foure carpenters, ver.</hi> 20, 21. A Viſion of <hi>a man with a meaſuring line in his hand, Chap. 2. ver.</hi> 1. Every Viſion hath its</p>
+            <list>
+               <item>Narration,</item>
+               <item>and</item>
+               <item>Explication.</item>
+            </list>
+            <p>The Narration of the firſt Viſion at the 18. verſe, <hi>I ſaw, and behold foure hornes.</hi> The Explication in the 19. <hi>Theſe are the hornes which have ſcattered Iudah, Iſrael, and Ieruſa<g ref="char:EOLhyphen"/>lem.</hi> So that</p>
+            <p n="1">1. You have the deſcription of the Churches enemies, un<g ref="char:EOLhyphen"/>der the viſion of <hi>foure hornes;</hi> who are here deſcribed, 1. From their number or multitude, they are <hi>foure hornes,</hi> according to the foure parts of the world; <hi>Quatuor cornua ſunt quatuor mundi partes.</hi> 2. From their power &amp; ſtrength; the <hi>horn</hi> is a word that in Scripture phraſe doth note ſtrength; <hi>He hath raiſed up a horne of ſalvation for us, Luke</hi> 1. 69. that is, ſtrong and powerfull ſalvation. 3. From their miſchie<g ref="char:EOLhyphen"/>vous and malignant practice, <hi>They ſcattered Iudah, Iſrael, and Ieruſalem.</hi>
+            </p>
+            <p n="2">2. In the ſecond Viſion you have the deſcription of thoſe ſpeciall inſtruments that are raiſed up for their deſtruction, under the ſimilitude of <hi>foure carpenters,</hi> or four ſmiths; who are here deſcribed, 1. From their number, <hi>foure:</hi> And 2. From their work, which is to ſcatter the hornes, and to caſt out the Gentiles.</p>
+            <p n="3">3. Then commeth in the third Viſion, the endeavours for Reformation, under the ſimilitude of <hi>a man with a meaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring line in his hand;</hi> which is deſcribed two wayes: 1. From the inſtrument thereof, <hi>a man,</hi> or as in the Hebrew, an ex<g ref="char:EOLhyphen"/>cellent<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> man, explained to be <hi>Zerubbabel</hi> their Governour, <hi>Chap.</hi> 4. 10. 2. From the exactneſſe thereof, he d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th work by line, <hi>I ſaw a man with a meaſuring line in his hand.</hi>
+            </p>
+            <p>Give me l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave to open the words, and draw out ſome ſhort Obſervations upon them before I come to the maine truths.</p>
+            <p>VERSE 18. <hi>Then lift I up mine eyes, and ſaw.</hi>] That is, I
+<pb n="3" facs="tcp:111601:6"/> ſtirred and rowſed up my ſelf with all intenſenes to receive this viſion. Heavenly relations are not to be obtained in a drowſy and ſleepy way.</p>
+            <p>
+               <hi>And behold foure hornes,</hi> that is, enemies from all parts of the world, and eſpecially thoſe foure Monarchies who have all in their courſe and turne been vexatious to the people of God. It is no new thing for the Saints and Churches to be puſhed, gored, ſcattered by cruell and beaſtly enemies. Yea the Churches may be ſo afflicted with enemies, that a man ſhall not know whither to fly for ſafety; for in every part of the world there ſhall be ſome oppoſers; <hi>I ſaw foure hornes,</hi> miſery, and calamity, and perſecution ariſing out of every part.</p>
+            <p>VERSE 19. <hi>And I ſaid to the Angel that talked with me, &amp;c.</hi> This Angel by Interpreters is ſaid to be Chriſt him<g ref="char:EOLhyphen"/>ſelf, the Angel of the Covenant, who is the beſt Interpreter of Heavenly viſions and of hard Scriptures; When we under<g ref="char:EOLhyphen"/>ſtand them not, we ſhould ſearch, make enquiry and go to Chriſt, ſaying as <hi>Zechariah</hi> here, <hi>What are theſe, Lord?</hi>
+            </p>
+            <p>
+               <hi>And he anſwered me, theſe are the hornes which have ſcat<g ref="char:EOLhyphen"/>tered Iudah, Iſrael and Ieruſalem.</hi>] The enemies of the Churches are not ſaid here to have wounded, or killed <hi>Iudah, Iſrael,</hi> or <hi>Ieruſalem,</hi> but <hi>ventilarunt,</hi> they have toſſed them up<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> as it were into the aire, they have <hi>ſcattered,</hi> ſaith the Engliſh. It is the proper work of the enemies of the Churches to ſcat<g ref="char:EOLhyphen"/>ter Gods people. The Diſciples of Chriſt are commanded to be without hornes, <hi>Be wiſe as Serpents, and innocent as Doves,</hi> the word in the Greek is without hornes as Doves;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> but here the enemies are ſaid to ſccatter <hi>Iudah, Iſrael</hi> and <hi>Ie<g ref="char:EOLhyphen"/>ruſalem,</hi> that is their work and property.</p>
+            <p>VER. 20. <hi>And the Lord ſhewed me foure Carpenters.</hi>] The word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, ſuch Agents and Inſtruments as do<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>fabri<g ref="char:EOLhyphen"/>cavit.</hi>
+               </note> work with art, counſell and deliberation. Though the ene<g ref="char:EOLhyphen"/>mies of the Churches be unreaſonable and cruell as horned beaſts, yet the inſtruments that God rayſeth up to ſuppreſſe them are full of humanity, wiſdome and counſell; and they are foure too, a proportionable ſtrength.</p>
+            <pb n="4" facs="tcp:111601:7"/>
+            <p>VER. 21. <hi>Then ſaid I, What come theſe to do?</hi> And he ſpake ſaying, <hi>Theſe are come to fray them away, and to caſt out the hornes of the Gentiles.</hi> Look how they dealt by Gods peo<g ref="char:EOLhyphen"/>ple, ſo God will deale by them; they ſcattered Iſrael, and the God of Iſrael will raiſe up inſtruments that ſhall ſcatter them; they caſt out Gods people, and they ſhall be caſt out. Scattering enemies ſhal be ſcattered themſelves at laſt.</p>
+            <p>CHAP. 2. VER. 1. <hi>I lift up mine eyes again.</hi>] Here is another viſion brought to the ſame purpoſe, in generall, to up<g ref="char:EOLhyphen"/>hold and comfort the diſtreſſed ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvants of God. When the the condition of the Saints is low and their fear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s great, there is need of repeating comforts; Then viſions, promiſes and conſolations muſt be oft repeated, <hi>I lift up mine eyes again.</hi>
+            </p>
+            <p>
+               <hi>And I looked, and behold a man with a meaſuring line in his hand;</hi> That is, for to build exactly. The ſecond verſe tells us it was for to meaſure Jeruſalem, which cannot barely be underſtood litt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rally, for <hi>ver.</hi> 16. of <hi>Chap.</hi> 1. It is ſaid, <hi>I am re<g ref="char:EOLhyphen"/>turned to Ieruſalem with mercies,</hi> ſaith the Lord, <hi>my houſe ſhall be built in it, and a line ſhall be ſtretched forth upon Ieruſalem, &amp;c.</hi> which promiſe in its latitude was never yet fulfilled litterally, but it is to be underſtood of the New Jeruſalem eſpecially, mentioned in <hi>Revel.</hi> 21. Where we find a man alſo at this meaſuring work. So that we may yet ſay, though the afflictions of the Churches be very great, and their deſo<g ref="char:EOLhyphen"/>lations many, yet if a man will lift up his eyes and ſtirre up himſelf, he may and ſhall behold <hi>a man with a meaſuring line in his hand.</hi> And thus you ſee that there is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ardly a word of theſe three viſions, but affordeth ſome ſpeciall inſtruction. But becauſe I have not time for all, I ſhall eſpecially cloſe with thoſe three Doctrines, that are eſpecially held forth in theſe three viſions. Thus.</p>
+            <p n="1">1. In that here are four hornes that appeare, firſt, you may <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> obſerve this, That when God intendeth good and ſalvation to his Churches, he doth firſt ſuff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r many potent, malicious enemies to riſe againſt them.</p>
+            <p n="2">2. In that theſe <hi>foure Carpenters</hi> do appeare immediatly <milestone type="tcpmilestone" unit="unspecified" n="2"/> after theſe <hi>foure hornes,</hi> as it were in the ſame viſion, you may
+<pb n="5" facs="tcp:111601:7"/> obſerve, That though God do ſuffer the enemies of his Churches and people to be exceeding ſtrong, many and moſt miſchievous, yet he will raiſe up an anſwerable ſtrength a<g ref="char:EOLhyphen"/>gainſt them; <hi>Foure Carpenters</hi> againſt <hi>foure hornes,</hi> which ſhall fray them away, and deale by them as they have done by others.</p>
+            <p n="3">3. In that the <hi>man with a meaſuring line</hi> doth immediat<g ref="char:EOLhyphen"/>ly <milestone type="tcpmilestone" unit="unspecified" n="3"/> follow upon theſe, you may obſerve, that when God ſhall pleaſe to raiſe up ſpeciall inſtruments to ſuppreſſe the Churches enemies, then and then eſpecially Reformation is to be much endeavoured, which is to be done with exactnes, even by <hi>Line.</hi>
+            </p>
+            <p>I begin with the former viſion of the <hi>foure hornes,</hi> and the <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> firſt Doctrine, namely, that when God intendeth any great good and ſalvation to his people, he doth firſt ſuffer malignant, potent, and many <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nemies to riſe againſt them. Was it not ſo with Iſrael wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n God intended to bring them out of Egypt? Then their Taskemaſters aroſe and doubled their work, and were more inimicitious to them then formerly. Was it not thus with the Jewes when God brought them out of Babylon to build the Temple? oppoſition they met withall in their remove, in their journey, and all along in their Temple-work. Was it not thus with the Iſraelit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s when they went to execute juſtice upon that malignant Tribe of <hi>Benjamin</hi> for the great ſin of <hi>Gibeah?</hi> If you look into the 20. of <hi>Iudges,</hi> you ſhall find that before <hi>Benjamin</hi> was puni<g ref="char:EOLhyphen"/>ſhed they got two great victories upon Iſrael; Iſrael (if you count the numbers of their ſouldiers) w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re twelve to one; Iſrael had the beſt cauſe, and their work was good, they went forth to do juſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce on that delinquent Tribe; yet if you conſult the ſtory, the Tribe of <hi>Benjamin</hi> firſt ſlew of them down to the ground forty thouſand m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n. This is Gods way ſtill; He ſeldome or never deſtroyeth his enemies but out of Zeale; <hi>The Zeale of the Lord of Hoſts hath done this,</hi> ſaith the Prophet: Now Zeale is nothing elſe but anger<g ref="char:EOLhyphen"/>ed love; and three things there are in the world that God doth love eſpecially, His people, His truth, and His worſhip;
+<pb n="6" facs="tcp:111601:8"/> When the enemies prevaile they ſpoile his people, they defile his worſhip, they ſcorne his truth, ſo his love is angred, his Zeale is ſtirred, and then his enemies are confounded.</p>
+            <p>But what reaſon is there why God ſhould ſuffer his pre<g ref="char:EOLhyphen"/>cious <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> ſervants and people to be thus handled, oppreſſed, go<g ref="char:EOLhyphen"/>red, ſcattered by cruell enemies?</p>
+            <p>Good reaſon for it. <hi>Totidem inimici, totidem paedagogi:</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> ſo many enemies, ſo many ſchool-maſters. <hi>Make plain my way before me</hi> (ſaith the Pſalmiſt) <hi>becauſe of mine enemies;</hi> but in the Hebrew it is, <hi>becauſe of mine obſervers;</hi> our ene<g ref="char:EOLhyphen"/>mies<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Inimicus q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſi obſer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>tor dictus, quod ſemper obſer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et et contempletur quibus malefa<g ref="char:EOLhyphen"/>cial.</hi> Buxtor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> are our obſervers, and their obſervation is our preſerva<g ref="char:EOLhyphen"/>tion. As a mans beſt friend ſometimes doth him more hurt then his worſt enemy, ſo his worſt enemie doth him more good then his beſt friend. Now ſuppoſe (ſaith <hi>Salmeron</hi>) that a man were in great want and need of money, and his friend ſhould throw him a bag of gold, though in his catch<g ref="char:EOLhyphen"/>ing of it he might hurt his hands or head, yet when he hath<note place="margin">
+                  <hi>Magna Dei mi<g ref="char:EOLhyphen"/>ſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cordia in flag ello tempo<g ref="char:EOLhyphen"/>rall: ut ſi quis c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umenam g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>vem &amp; au<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o onuſtam ex <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>di<g ref="char:EOLhyphen"/>to loco in caput cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſdam p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ito aliq <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o in carce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om de<g ref="char:EOLhyphen"/>tenti proj<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eret &amp; dolorem ali<g ref="char:EOLhyphen"/>quem ei in<g ref="char:EOLhyphen"/>fe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>et, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>rem capi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s ex<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>taret, &amp; u<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m vel alte<g ref="char:EOLhyphen"/>ram g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ttulam ſang<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> cl<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>ct, ille quidem <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ei ignarus moleſte ſerret in principio, &amp; vicem ſuam magn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> dole<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et quod afflicto afflictio adde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>etur; verum ſi paulo poſt animo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am tranquill<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a l<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>xu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>culos ſuos convertet, &amp; c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umenam multo auro refectam depre<g ref="char:EOLhyphen"/>hendat, quo poſſit debita ſua perſolvere, &amp; q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od ſupe eſt ad vitam <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t anquilie placideque traducendam ſuffi<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>e, p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſecto de ill ato tantillo vul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lla eſſet amplius querimonia vel memo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a, imo ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ta congratulat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o: Ad eundem mod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m de Chriſti flagellis conſideran<g ref="char:EOLhyphen"/>dam.</hi> Salmer. de miracul. in J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an. 3. * <hi>Honor eſt teſtimonium de alicujus excellentia.</hi> Aqu.</note> taken out the gold, he loves his friend never the leſſe. There is no perſecution but brings a bag of gold to Gods people; though it may ſomewhat hurt them in falling upon them, yet when they have picked out the gold thereof, they will love God the more.</p>
+            <p>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t me inſtance.</p>
+            <p n="1">1. Hereby they are occaſioned to honour God, which is the end of their life and the comfort of their ſoule: for what is honour, but as <note n="*" place="margin">
+                  <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nor eſt teſtimonium de alicujus excellentia.</hi> Aqu.</note> 
+               <hi>Aquinas</hi> ſpeaks, a teſtimony of anothers excellency? the more I teſtifie of any excellency in any truth or way of Gods, the more I honour him; and in times of perſecution the Saints of God doe thus teſtifie of him.</p>
+            <p n="2">2. Hereby the children of God are weaned from the world,
+<pb n="7" facs="tcp:111601:8"/> and made to hie them home to their fathers houſe.</p>
+            <p n="3">3. Hereby they are made more uſefull in their places, and beneficiall unto their enemies; for therefore our enemies doe us ſo much hurt, becauſe we doe them no more good.</p>
+            <p n="4">4. Hereby they carry the truths of God and Chriſt into other parts; the enemy intendeth to ſcatter their perſons, but God intendeth to ſcatter his truths.</p>
+            <p n="5">5. Hereby the children of God receive a fuller and clearer teſtimony of their own graces. When the world frowns moſt, God ſmiles moſt upon them. When the enemie gives the loudeſt teſtimonie of their hypocriſie, God from heaven doth give the higheſt teſtimony of their ſincerity to their boſomes.</p>
+            <p n="6">6. Hereby the enemies themſelves are more convinced. Some men ſnore ſo loud in their ſleep, that they awake them<g ref="char:EOLhyphen"/>ſelves with their owne ſnortings; and ſome mens ſinnes are ſo loud and unreaſonable, that they convince themſelves and others by their owne unreaſonable dealing with the people of God. Maſter <hi>Fox</hi> tels of one in Queene <hi>Maries</hi> time, that had ſo baſely and maliciouſly uſed that ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvant of God <hi>Iames Abbes,</hi> that when that good man <hi>Iames Abbes</hi> was dead, the remembrance of this Martyrs patience and his owne un<g ref="char:EOLhyphen"/>reaſonableneſſe, made the Perſecutor cry out and ſay, <hi>Iames Abbes</hi> is ſaved, and I am damned, and ſo he went wringing his hands to his grave, crying, <hi>Iames Abbes</hi> is ſaved and I am damned, <hi>Iames Abbes</hi> is ſaved and I am damned. It is recor<g ref="char:EOLhyphen"/>ded alſo of one <hi>Calocerius,</hi> that when he ſaw the malignancy of the enemies, and patience of the Martyrs, he cryed out and ſaid, <hi>Of a truth great is the God of the Chriſtians.</hi> And what<note place="margin">Vere magnus Deus Chriſtia<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rum.</note> can a Chriſtian deſire more? Is not Gods truth better then my houſe?</p>
+            <p n="7">7. Hereby alſo the Saints are kept from and cured of di<g ref="char:EOLhyphen"/>viſions among themſelves. <hi>Cyprian</hi> meditating of the ſeve<g ref="char:EOLhyphen"/>rall cauſes that brought thoſe ſad and heavy perſecutions in the primitive times, reckoneth up this for one, their owne diviſions, wherefore God was fame to let out the dog upon the ſheepe, that the ſheepe might run together. Our puniſh<g ref="char:EOLhyphen"/>ments
+<pb n="8" facs="tcp:111601:9"/> oftentimes weare the names of our ſins in their fore<g ref="char:EOLhyphen"/>heads: And if ever, then now; God doth puniſh our diviſi<g ref="char:EOLhyphen"/>ons with diviſions; But it is to cure our diviſions. He points to our ſin by our puniſhment, that in our puniſhment wee may becured of ſin.</p>
+            <p n="8">8. Hereby alſo the ſervants of God may ſee and know by experience, that it is better to ſerve God then men. When<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </note> we worſhip God after and for the precepts of men, we doe rather worſhip men then God, and ſerve them then him; And when his ſervants do ſo, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n God ſuffers men to riſe up againſt them, that they may learne in a ſmarting way, as wel as they have done in a ſinning way, what it is to ſerve men. This cauſe you have expreſſed, 2 <hi>Chron. 12. 7, 8. And when the Lord ſaw that they humbled themſelves, the word of the Lord came to Shemaiah, ſaying, They have humbled them<g ref="char:EOLhyphen"/>ſelves, therefore I will not deſtroy them, but I will grant them ſome deliverance, and my wrath ſhall not be poured out by the hand of Shiſhak; Nevertheleſſe they ſhall be his ſervants, that they may know my ſervice and the ſervice of the Kingdomes of the Countries.</hi>
+            </p>
+            <p n="9">9. Hereby againe the ſervants of God learne the right uſe of the rod, both in Church and State: Sometime it ſo falleth out that Juſtice is not executed in a Kingdome, and Diſci<g ref="char:EOLhyphen"/>pline not exerciſed in a Church; Well then ſaith God, ſeeing that you will not take the rod into your hand, I will take it into mine owne, but it ſhall be in ſuch a manner as ſhall make all your hearts to ake. In the ſecond and third Chap<g ref="char:EOLhyphen"/>ters of the <hi>Revelation,</hi> you know there are ſeven Epiſtles written to the ſeven Churches, and there is none of all the Churches but are threatned with one affliction, calamity or another, ſave onely that of <hi>Philadelphia;</hi> and if you marke it, you ſhall finde that onely that Church had the keyes right<g ref="char:EOLhyphen"/>ly uſed and handled. And you ſhall finde this alſo in all Gods dealings both with States and Churches: Let a State or Kingdome be never ſo wicked, yet if Juſtice be executed there is hope thereof; Let a Church be never ſo defiled, yet if Diſcipline be exerciſed, there is hope of that: But if a King<g ref="char:EOLhyphen"/>dome
+<pb n="9" facs="tcp:111601:9"/> where there is no Juſtice, or a Church where there is no Diſcipline, nor <hi>in tendentia</hi> to it, then the Lord himſelfe ariſeth and ſaith; W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, becauſe you will not take this rod in<g ref="char:EOLhyphen"/>to your hand, I will, and I will raiſe up enemies againſt you that ſhall doe the ſame to you, that you ſhould have done to them. Good reaſon therefore, yea infinitely good reaſon, that God ſhould ſometimes ſuffer his owne people to bee puſhed, gored, ſcattered, by cruell and bloody enemies that are moſt unreaſonable.</p>
+            <p>Wherefore then let no man be ſtumbled or offend<g ref="char:EOLhyphen"/>ed<note place="margin">Application.</note> at Gods preſent proceedings in the world, or in this Kingdome, though very myſterious. Our Saviour ſayes, <hi>Theſe things I tell ye before, that when they come to paſſe, ye may not be offended;</hi> and whatſoever is now come to paſſe among us, Chriſt hath told us of it before; yea this Scripture. Yet, good Lord, how many are there that are offended! Oh, ſayes one, we looked for reformation, and we meet with confuſion; for light, and we meete with darkenes; we looked that Jeſus Chriſt ſhould at this time have reſtored his Kingdom to the Churches; for friends, and we meete with enemies; Can God love us, and ſuffer ſuch enemies to riſe againſt us? Were there ever any enemies that were like to ours? ſo potent, ſo cruell, ſo many, ſo blaſphemous, ſo helliſh, &amp;c.</p>
+            <p>But who art thou, oh man, that ſpeakeſt thus long with<g ref="char:EOLhyphen"/>out book under the command of unbeliefe, and darkneſt knowledge? Shouldſt thou not rather write ſo and ſuch over thy ſins, then over thine afflictions? You ſay, had ever any of Gods people ſuch enemies as we? ſo cruell, ſo many, ſo vile, &amp;c? You ſhould rather ſay, Come, O my ſoul, did ever any commit ſuch ſins as I do? ſo frequently, ſo knowingly, ſo deli<g ref="char:EOLhyphen"/>berately, ſo incorrigibly, ſo ſcandalouſly? Why do you not ra<g ref="char:EOLhyphen"/>ther write the So upon your ſins, then upon your ſorrowes? Thus did <hi>Euſebius Neiremburgius,</hi> aggravating his own ſins, oh ſaith he, never any ſinned ſo as I have done, the Devil ſinned indeed, but Chriſt never died for him as he hath done for me; <hi>Iudas</hi> ſinned indeed, but he was never pardoned as I have beene; <hi>Achan</hi> ſinned indeed and troubled the kingdom, but
+<pb n="12" facs="tcp:111601:11"/> enemies you know there are by whom you are moſt moleſted,</p>
+            <list>
+               <label>The</label>
+               <item>
+                  <list>
+                     <item>Fleſh</item>
+                     <item>Devil</item>
+                     <item>World</item>
+                  </list>
+               </item>
+            </list>
+            <p>Firſt, the Fleſh brings forth three great evils. 1. Ignorance in the underſtanding; In oppoſition to that Jeſus Chriſt is called our Prophet. 2. Rebellion in the will; In oppoſition to that Jeſus Chriſt is called our King. 3. Guiltines that ariſeth from ignorance and rebellion; In oppoſition to that Jeſus Chriſt is called our Prieſt.</p>
+            <p>The Devil our ſecond enemy is armed with all weapons of hoſtility againſt us; therefore there are ſeverall names given to him. He is ſaid 1. to be the <hi>ſtrong man,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>when the ſtrong man keepeth the houſe, &amp;c.</hi> In oppoſition to that Jeſus Chriſt is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſtronger then he. 2. The<note place="margin">Luke 11. 21.</note> Devill is called the Accuſer of the brethren; In oppoſition to that Jeſus Chriſt is called our Advocate. 3. The Devil is called <hi>Apollyon,</hi> deſtroyer; In oppoſion to that Jeſus Chriſt is called our Saviour. 4. The Devil is called the old Serpent; In oppoſition to that Jeſus Chriſt is called the brazen Serpent. 5. The Devil is called a roaring Lion; in op<g ref="char:EOLhyphen"/>poſition<note place="margin">
+                  <hi>Iſte leo ob ſeri<g ref="char:EOLhyphen"/>tatem, Chriſtus ob fortitudinem Chriſtus l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o ad vincendum, di<g ref="char:EOLhyphen"/>abolus ad no<g ref="char:EOLhyphen"/>condum.</hi> Aug.</note> to that Jeſus Chriſt is called <hi>a Lion of the Tribe of Iudah.</hi> 6. The Devil is called the god of this world, the prince of the ayre; In oppoſition to that Jeſus Chriſt is called the <hi>Prince of Peace, the mighty God.</hi> Thus what ever termes or titles of ſtrength and power there is in Satan, there is ſome<g ref="char:EOLhyphen"/>what in Jeſus Chriſt that anſwereth, yea that over-anſwer<g ref="char:EOLhyphen"/>eth all.</p>
+            <p>And for our third enemy, the world, you cannot have a more full deſcription of its power then as it is preſented to you <hi>Revel. 13. 1. I ſaw a Beaſt ariſing out of the Sea having ſeven heads and ten hornes.</hi> Our Text ſpeakes but of <hi>foure hornes,</hi> and here are ten; yet if you look into the 5. <hi>Revel.</hi> you ſhall find an anſwerable ſtrength in Chriſt, who is de<g ref="char:EOLhyphen"/>ſcribed to be a <hi>Lambe having ſeven hornes,</hi> ſeven rather then ten being the number of perfection in Scripture. But if you think that ſeven is not enough to equalize the ten, you find
+<pb n="13" facs="tcp:111601:11"/> alſo in <hi>Habak. 3. ver.</hi> 4. that the Lord our God is ſaid to have <hi>hornes in his hand,</hi> becauſe all the works of his hand are done in ſtrength and power. So that what ever your enemies are, there is ſtrength enough in Jeſus Chriſt to ſubdue their ſtrength.</p>
+            <p>And why is Chriſt thus furniſhed, but for his Church and people? He is the Lord Keeper of all our comforts, the Lord<note place="margin">
+                  <hi>Chriſtus com<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> theſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi> Luth.</note> Treaſurer of all our graces, and the great Magazine of all our Ammunition. He was anointed that he might anoint; he was ſanctifyed that he might ſanctifie; he received of the Father that he might give unto you, unto you I ſay and unto all the Churches. He is the Head of His Church, and there<g ref="char:EOLhyphen"/>fore as <hi>Luther</hi> obſerveth well, though every member is ſenſi<g ref="char:EOLhyphen"/>ble<note place="margin">
+                  <hi>Sen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s ſub<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eſt in capite quam in reliqui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> membris corpo<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>: hoc experi<g ref="char:EOLhyphen"/>entia <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>idemus, nam laeſo digi<g ref="char:EOLhyphen"/>tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o aut ali<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> minima corpo<g ref="char:EOLhyphen"/>ris parte laeſa, ſtatim caput in vultu prodit ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe hoc ſentire; naſus enim con<g ref="char:EOLhyphen"/>trabitu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, oculi torvum vident: ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chriſtus ca<g ref="char:EOLhyphen"/>put noſtrum af<g ref="char:EOLhyphen"/>flictiones no<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as ſuas facit &amp; ut in capite omnes ſenſus, &amp;c.</hi> Luth.</note> of wrong and hurt done to another member, yet the head is much more ſenſible then all the members, for the head is the ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te and habitation of all the ſenſes; the hand may touch, but it cannot ſee; the foot may feel, but it cannot heare or taſt; the head ſees, and f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ls, and heares, and taſts, and ſmels; ſo ſayes he, it is with Chriſt our Head, in whom all the ſenſes dwell, and therefore infinitely more ſenſible of the Churches miſery then any other member in all the world; and ſenſible he cannot be unleſſe in due time he be helpfull unto them. Upon this very ground you ſhall find that God promiſeth to raiſe up <hi>ſeven ſhepheards and eight principall men</hi> for the help of his people, <hi>Micah 5. 5. When the Aſſyrian ſhall come into our land, and when he ſhall tread in our palaces, then ſhall we raiſe againſt him ſeven ſhepheards and eight principall men;</hi> As if he ſhould ſay, though you have been heretofore without Guides, and Captaines, and Commanders, and Princes, yet when the enemy is come into your land, I will raiſe up in<g ref="char:EOLhyphen"/>ſtruments enow to ſuppreſſe them; and look what theſe Aſſy<g ref="char:EOLhyphen"/>rians have done unto you, that ſhall my inſtruments and work-men do unto them; do they come into your Countrey and tread down your palaces? ſo ſhall mine inſtruments go into their Country and tread down their palaces, <hi>ver.</hi> 6. And would you know the ground of all this? It is my love in Chriſt; for, <hi>Thou Bethlehem Ephratah, though thou be little
+<pb n="14" facs="tcp:111601:12"/> among the thouſands of Iudah, yet out of thee ſhall he come forth unto me, that is to be ruler in Iſrael, whoſe goings forth have been from of old<g ref="char:punc">▪</g> from everlaſting.</hi> And ver. 4. <hi>He ſhall ſtand and feed in the ſtrength of the Lord, in the Majeſty of the Name of the Lord his God, and they ſhall abide; And this man ſhall be the peace when the Aſſyrian ſhall come into our land. ver.</hi> 5. So that whoſoever doth but ſeriouſly conſider the ſtrength and anointment of Jeſus Chriſt, muſt needs conclude this Do<g ref="char:EOLhyphen"/>ctrine with me. Though God ſuffer the enemies of his Church and people to be many and great, yet in due time he will raiſe up a proportionable ſtrength againſt them to ſup<g ref="char:EOLhyphen"/>preſſe them, and to deale by them as they have done by o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>The application of this Doctrine lookes two wayes,</p>
+            <list>
+               <label>To the</label>
+               <item>
+                  <list>
+                     <item>Saints in generall</item>
+                     <item>Carpenters in ſpeciall</item>
+                  </list>
+               </item>
+            </list>
+            <p>To the Saints by way of conſolation and incouragement.</p>
+            <p>To the Carpenters, to Gods workemen, by way of direction and exhortation.</p>
+            <p>Firſt, here is conſolation and incouragement unto all the<note place="margin">Application 1</note> Saints and people of God. Wonder not that in a day of hu<g ref="char:EOLhyphen"/>miliation, I ſpeake of conſolation. Beloved, you are never<note place="margin">
+                  <hi>Sanctus dolet, &amp; de dolo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e gaudet.</hi> Aug.</note> more fit to mourne for ſin, then when you can rejoyce in God. One grace makes way for another. It is the warme beames of Gods love and care muſt thaw our hearts. Two things that we are this day to do. To wraſtle with God; To fight with our enemies. You cannot in your wraſtling take better hold of God then by the skirt of a promiſe: you cannot fight better againſt your enemies then by faith. The Devil, with whom eſpecially we fight in theſe wars, will not be killed with ſwords and knives; <hi>This is our victory whereby we overcome the world, even our faith.</hi> It is written in the life of Mr. <hi>Tindall,</hi> that when he was in the Nether<g ref="char:EOLhyphen"/>lands, there was a Conjurer that could command diſhes of meat from ſeverall mens tables, ſo that he would invite his friend to a diſh of meat from ſuch or ſuch a Princes table; divers going to ſee his exploite, Mr. <hi>Tindall</hi> went with the
+<pb n="15" facs="tcp:111601:12"/> reſt, if it might be, to hinder it; and when he came there, he ſet himſelf in a way of beleeving to hinder this Conjurers proceedings, which he did accordingly, for when that wret<g ref="char:EOLhyphen"/>ched man ſhould have done his exploit, his hands were held by Mr. <hi>Tindalls</hi> faith, and he cryed out and ſaid, I cannot do it, there ſits the man that hinders me, or to that purpoſe. What will not faith do, if good? What will it not hinder, if evil? I will not ſay that in theſe ſad dayes of ours we have to deale with Conjurers, but ſurely with ſuch perſons as through their violence and thefts are able not onely to com<g ref="char:EOLhyphen"/>mand mens diſhes off their tables, but all their goods out of their houſes: Oh that we had but faith enough, we might<note place="margin">Fides ſe demit<g ref="char:EOLhyphen"/>tit ad domeſtica</note> ſoone beleeve them out of all their plundrings.</p>
+            <p>Wherefore that I may raiſe up your faith a little, and keep you from diſcouragements, I lay before you this promiſe; <hi>Zechariah</hi> his viſion is your promiſe; yea it is ſomewhat more, for as we ſay of Sacraments, ſo I ſay of theſe two laſt viſions, they are promiſes unto the eye, unto ſenſe. When <hi>Io<g ref="char:EOLhyphen"/>ſhua</hi> was to bring the children of Iſrael into Canaan, and ſo to meet with many enemies, before he went out, God, &amp; <hi>Moſes,</hi> and the people beſtowed their ſeverall exhortations on him; and if you conſult the place, you ſhall find that all of them, God, <hi>Moſes,</hi> and people wiſh him to <hi>be of good courage, and not to feare;</hi> Why ſo? <hi>Abulenſis</hi> anſwereth, <hi>Rationabiliter enim timere potuit Ioſhua; Ioſhua</hi> might rationally feare, for he ſaw how that his maſter <hi>Moſes</hi> was occaſioned by the<note place="margin">
+                  <hi>Rationabiliter ergo timere po<g ref="char:EOLhyphen"/>terat Joſua, quod cum ipſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>agilio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> eſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ſacillime pec<g ref="char:EOLhyphen"/>care pote<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at, ita ut deus ipſum et populum in ho<g ref="char:EOLhyphen"/>ſtilem tradert poteſtatem.</hi> To<g ref="char:EOLhyphen"/>ſtat. in Joſu. 1. cap.</note> Iſraelites to ſin againſt God, and to be angry, in ſo much as he was kept out of Canaan: Whereupon <hi>Ioſhua</hi> might well think thus with himſelfe, Oh Lord, if <hi>Moſes</hi> who was the meekeſt man on earth was moved to anger, the holyeſt man, a man that ſaw God face to face, yet could not do this work, but through his failing was denyed entrance into Canaan; how ſhall I be able to lead this people up againſt all theſe enemies? Well therefore might he feare (ſaith <hi>Abulenſis</hi>) leſt God ſhould give both him and his people into the hands of his enemies. Well, but how then doth God remove theſe feares, and relieve his heart? Onely thus, he ſtrengthneth
+<pb n="16" facs="tcp:111601:13"/> him with a promiſe, <hi>Feare not,</hi> (ſayes God) <hi>neither be diſ<g ref="char:EOLhyphen"/>mayed for I am with thee, and I will never leave thee nor for<g ref="char:EOLhyphen"/>ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thee.</hi> So now, are there any of you oppr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with di<g ref="char:EOLhyphen"/>vers ſeares becauſe of theſe <hi>hornes</hi> that are riſen up in ſeveral parts of the world, of this Kingdome? The Lord hath ſaid that according to the number of the <hi>hornes,</hi> the <hi>carpenters</hi> ſhall be. Are there enemies in every part? There ſhall be <hi>carpenters</hi> in every part. Will you ſay, Oh but our en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mies are exceeding many, and very cru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll? So were theſe menti<g ref="char:EOLhyphen"/>oned in the Text, who (as <hi>Sanctius</hi> obſerveth the words ſig<g ref="char:EOLhyphen"/>nifie) were to doe miſchief <hi>in quantum potuerunt &amp; in quan<g ref="char:EOLhyphen"/>tum voluerunt,</hi> and as your Engliſh hath it, <hi>ſo that no man did lift up his head.</hi> Will you ſay, Oh but I doe not yet ſee theſe <hi>carpenters</hi> at worke? But is it not becauſe you do not ſtir up your ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lves? <hi>I lift up mine eyes and ſaw,</hi> ſaith <hi>Z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cha<g ref="char:EOLhyphen"/>riah.</hi> Will you ſay, Oh but when I do ſtir up my ſelfe to be<g ref="char:EOLhyphen"/>hold things as they are, I cannot ſee foure for foure, a propor<g ref="char:EOLhyphen"/>tionable ſtrength on the Churches ſide raiſed up againſt the enemies? Well, but yet you may ſee ſome ſtrength in every place, where ever there is any oppoſition made by enemies, ſome there are in the ſame place that God hath raiſed up to reſiſt them. And the Text is not, that God will raiſe up ſtrong gigantean carpenters, but <hi>carpenters, foure carpenters,</hi> ſome or other that ſhall doe the work of God, though they be ne<g ref="char:EOLhyphen"/>ver ſo weak. In that <hi>Mic.</hi> 5. where the promiſe is to raiſe up <hi>ſeven ſhepherds, and eight principall men,</hi> he ſaith, <hi>ver. 7. The remnant of Iacob ſhall be as the dew that waiteth not for the ſons of men.</hi> Mark that word, <hi>that waiteth not for the ſons of men.</hi> When <hi>Siſera</hi> and all his hoſt were diſcomfited, what were the carpenters? were not <hi>Deborah</hi> and <hi>Iael</hi> with her hammer amongſt them? and ſaith the Text, <hi>So let all thine enemies periſh;</hi> it is not onely a prayer, but a pro<g ref="char:EOLhyphen"/>phecie.</p>
+            <p>It is recorded in the life and death of <hi>Melancthon,</hi> that when <hi>Charles</hi> the 5. and the Pope of Rome threatned the Proteſtants with fire and ſword, <hi>Luther, Melancthon,</hi> and others got together to ſeek a way for themſelves, their little
+<pb n="17" facs="tcp:111601:13"/> ones, and their ſubſtance; and on a certaine day after long deli<g ref="char:EOLhyphen"/>beration, <hi>Philip</hi> tired out with labour, roſe up (exceeding ſad and very ſorrowfull) to go ſpeake with ſome that knockt and enquired after him at the gate; in his returne to his company he heard in a roome as he paſſed by, the noyſe of children, as it were pronouncing their Catechize; whereupon he put aſide the dore where they were, and he ſaw the Miniſters wives of the place, praying and prayſing God with their children; up<g ref="char:EOLhyphen"/>on this <hi>Melancthon</hi> returned to his company exceeding cheer<g ref="char:EOLhyphen"/>full and very joyfull; <hi>Luther</hi> eſpying his gladſome counte<g ref="char:EOLhyphen"/>nance, ſaid thus to him, <hi>Philip</hi> how commeth it to paſſe that you returne ſo joyfull that went out even now ſo ſorrow<g ref="char:EOLhyphen"/>full? He anſwered, Let us be of good comfort, for I have ſeen them that will fight for us and defend us. <hi>Luther</hi> asked, what thoſe ſtout and brave Captaines were? Oh (ſayes <hi>Melanct<g ref="char:EOLhyphen"/>hon</hi>) they are the chaſt wives and vertuous children of holy men. It ſeemes that holy man <hi>Melancthon</hi> thought ſuch Carpenters were a great matter in his time. Beloved, you have many ſuch Carpenters as theſe at work for you: But beſides theſe look into any part of the kingdom, and you ſhal find that where ever any horne is raiſed up, there is a Carpen<g ref="char:EOLhyphen"/>ter at work alſo, ſome or other that God hath unexpectedly raiſed up to make reſiſtance. Wherefore then lift up your heads oh all ye people of the Lord, and be not diſcouraged; what <hi>Zechariah</hi> ſaw you ſhall find, Gods promiſe is your ſecurity, He will raiſe up <hi>four Carpenters</hi> to the <hi>foure Hornes.</hi>
+            </p>
+            <p>Secondly, This Doctrine ſpeakes direction to the Carpen<g ref="char:EOLhyphen"/>ters,<note place="margin">Application 2.</note> it tells them what they ought to do, and what is their work. The work of the <hi>foure Carpenters</hi> you ſee is not one<g ref="char:EOLhyphen"/>ly <hi>to fray theſe hornes away, but to caſt out the Gentiles.</hi> Who ever therefore you are whom God hath raiſed up for this imployment, behold your ſervice, up and be doing, and do it fully; <hi>Curſed is he that doth the worke of the Lord negligently: and with holdeth his hand from ſhedding of blood,</hi> they are knit together in one verſe, <hi>Ierem.</hi> 48. 10.</p>
+            <p>But we are now upon the work of Reformation, building <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> the Temple, and if a man be a man of blood, he is not fit for that ſervice.</p>
+            <pb n="18" facs="tcp:111601:14"/>
+            <p>Miſtake me not, it is not in mine intention to call for blood. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Oh that in this day of our humiliation and addreſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to God, we could ſo touch the hemme of Chriſts garment, thtt Eng<g ref="char:EOLhyphen"/>lands bloody iſſue might be ſtanched I Be as mild as you can, ſo you be like unto Chriſt, who was both a Lamb and a Lion; a Lamb in his owne cauſe, a Lion in Gods. Meekneſſe and Juſtice may well ſtand together: <hi>Moſes</hi> was the meekeſt man upon earth you know, yet when Iſrael had defiled themſelv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s with Idols in the matter of the golden calfe, he ſtood in the gate of the camp<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>. Sam. cap. 2. <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>, ut <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eis ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſibi <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, &amp; tamen d<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>nquentes ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſecutas eſt, q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, ut eos etiam Domino parcente proſter<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> et. <hi>Gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gor.</hi>
+               </note> and ſaid, <hi>Exod. 32. 27. Thus ſaith the Lord God of Iſrael, put every man his ſword by his ſide, and goe in and out from gate to gate through the camp, and ſlay every man his bro<g ref="char:EOLhyphen"/>ther, and every man his com<g ref="char:EOLhyphen"/>panion, and every man his neighbour.</hi> He doth not ſay, Slay every man his enemy, or every man his countreyman, but every man his <hi>brother,</hi> and his <hi>companion,</hi> and his <hi>neighbour.</hi> And <hi>ver.</hi> 28. it is ſaid. <hi>The children of Levi did according to the word of Moſes; and there fell of the people that day about three thouſand men;</hi> yet the Levites had their hand in Temple-work more then any other Tribe, and <hi>Moſes</hi> had the honour to build the Taberna<g ref="char:EOLhyphen"/>cle. You reade alſo in <hi>Zech.</hi> 13. of a great and glorious Re<g ref="char:EOLhyphen"/>formation, ſo high, ſo great, and ſo convincing, that the very Prieſts who were wont to goe in rough garments to deceive the people, ſhould throw away their Prieſt-coats, and ſay, <hi>ver. 5. I am no Prophet, I am an husbandman, for man taught me to keep cattel from my youth.</hi> As if they ſhould ſay ſeve<g ref="char:EOLhyphen"/>rally, Though I am able to reade a Chapter, yet I am not fit to be a Miniſter, I have no learning, but in truth am more fit to goe to the plough: Well, but now mark I pray how this great change and Reformation is uſhered in and brought about, not without ſome kind of holy violence, for it is ſaid, <hi>ver. 2. It ſhall come to paſſe in that day, ſaith the Lord of
+<pb n="19" facs="tcp:111601:14"/> hoſts, that I will cut off the names of the Idols out of the land, and they ſhall be no more remembred; and alſo I will cauſe the Prophets and the uncleane ſpirits to paſſe out of the land:</hi> And <hi>ver. 3. It ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all come to paſſe that wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n any ſhall yet pro<g ref="char:EOLhyphen"/>pheſie, then his father and his mother that begat him ſhall thruſt him through when he propheſyeth.</hi> And <hi>ver.</hi> 6. when any ſhould ask him, <hi>What are thoſe wounds in thy hands? Then he ſhall anſwer, Thoſe wherewith I was wounded in the houſe of my friends.</hi> Another notable Scripture you have for this purpoſe in <hi>Pſal.</hi> 24. when the queſtion is made at the third verſe, <hi>Who ſhall aſcend into the hill of the Lord, and who ſhall ſtand in his holy place?</hi> That is, who is fit to be a member of a true Church? Anſwer is made to this at the 4. 5. and 6. ver<g ref="char:EOLhyphen"/>ſes, <hi>He that hath cleane hands, and a pure heart, &amp;c.</hi> Where<g ref="char:EOLhyphen"/>fore then ſaith the Pſalmiſt, <hi>Lift up your heads O ye gates,</hi> that is, Magiſtrates that ſit in the gates; <hi>and be ye lift up ye everla<g ref="char:EOLhyphen"/>ſting doores,</hi> that is, of the Churches, for the doores of the Churches are <hi>everlaſting doores,</hi> againſt which <hi>the gates of hell ſhall not prevaile:</hi> and then <hi>the King of glory ſhall come in:</hi> that is, God will come in and dwell amongſt you in his great glory, and your very congregations ſhall be filled with glory. But, <hi>Who is the King of glory? The Lord ſtrong and mighty,</hi> ſaith the Pſalmiſt, <hi>the Lord mighty in battell, the Lord of Hoſts, he is the King of glory;</hi> that is, thus will hee bring his glory into the Churches by ſhewing himſelfe to be <hi>the Lord ſtrong and mighty, the Lord mighty in battell.</hi> Wherefore then <hi>lift up your heads O ye gates,</hi> and execute you juſtice and judgement, <hi>and be you lift up ye everlaſting doors</hi> of the Churches, and be you reformed, and <hi>the King of glory ſhall come in</hi> with his glory into your congregations. But if you ask me who this King of glory is? I muſt tell you he is <hi>the Lord of hoſts,</hi> and ſo he will be known unto you when he bringeth his glory amongſt you, <hi>even the Lord ſtrong and mighty in battell.</hi> Wherefore I ſay <hi>lift up your heads</hi> O you <hi>carpenters</hi> and ſervants of the Lord, drawn forth to that em<g ref="char:EOLhyphen"/>ployment: you ſee your work, the Text hath cut it out, I beſeech you in the Lord CHRIST, doe it, and doe it
+<pb n="20" facs="tcp:111601:15"/> throughly. Onely let me lay in one Caution, which is this:</p>
+            <p>When you have <hi>frayed away the hornes,</hi> and <hi>caſt out the Gentiles,</hi> take heed that the ſpirit of the <hi>hornes</hi> doe not live in the <hi>carpenters.</hi> When the Children of Iſrael drove the Ca<g ref="char:EOLhyphen"/>naanites out of their land, they did as well inherit their ſins as their lands, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s they came to puniſh they did commit, the ſpirit of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Canaa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ites did dwell in the Iſraelites. So it was with <hi>Iehu</hi> when he had beat down the houſe of <hi>Ahab:</hi> So with <hi>Am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ziah,</hi> who when he had deſtroyed the Edo<g ref="char:EOLhyphen"/>mites, he brought the gods of the children of <hi>Seir,</hi> and ſet the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up to be his gods, 2 <hi>Chron.</hi> 25. 14, 15. This is too com<g ref="char:EOLhyphen"/>mon in times of Reformation. You all know what a bleſſed inſtrument of Reformation Maſter <hi>Calvin</hi> was in his time, yet when he came to that<note place="margin">At ego, inquit Calvinus, Chryſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mum ſequntus, occid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me potiu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> patia, qua<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> con<g ref="char:EOLhyphen"/>tempto<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bus <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udicat<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſancta Domini pe<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>gat.</note> matter of denying the Lords Supper to <hi>Bartlerius</hi> and o<g ref="char:EOLhyphen"/>ther <hi>Servetians</hi> who were<note place="margin">
+                  <hi>A prandio vero Cal<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um illum <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Actorum Apoſt: ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te tractans in quo Paulus Ec<g ref="char:EOLhyphen"/>cleſiae Epheſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae, teſtatu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſe e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m non eſſe qui adver<g ref="char:EOLhyphen"/>ſus magiſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atum pugra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ret a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> docer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>tum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> mult<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ortatus ut in ea quam audi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſſet doct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ina pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſevera<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t, tandem <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> poſtremam con<g ref="char:EOLhyphen"/>cionem Gen<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>e hab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>turus, &amp; qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mad<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>od<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>qui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ſe res habent, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>cat mihi quoque <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>atres apud <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> haec Apoſtols <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ba <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, Commendo vo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o &amp; ſo mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atiae ejus.</hi> M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. Adam. de vita Calvini.</note> moſt unworthy, thoſe that otherwiſe were called Pro<g ref="char:EOLhyphen"/>teſtants, roſe up in oppoſition to him, inſomuch that he was ready, if not altogether for<g ref="char:EOLhyphen"/>ced to leave <hi>Geneva</hi> for a time. And was it not thus in that unhappy diffe<g ref="char:EOLhyphen"/>rence at <hi>Francford?</hi> In Queen <hi>Maries</hi> time you know that<note place="margin">Hiſt. d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Franc.</note> many left this their own countrey, and did fly to <hi>Germany;</hi> when they came there, did not many of them that fled for Religion prove puſhing, goring <hi>hornes</hi> unto their brethren? yea ſome of them were ſo bitter to others, that they com<g ref="char:EOLhyphen"/>plained of and impeached that reverend man Maſter <hi>Knox</hi> of High Treaſon againſt Imperiall Dignity, in ſo much that he was baniſhed from the City, and driven from his congre<g ref="char:EOLhyphen"/>gation. Oh what a ſad thing is this that the ſpirit of Papiſts ſhould live in Proteſtants! that the ſpirit of the <hi>horns</hi> ſhould live in the <hi>carpenters!</hi> that the ſpirit of Prelats ſhould live in
+<pb n="21" facs="tcp:111601:15"/> thoſe that are riſen up to <hi>fray them away</hi> and <hi>caſt them out!</hi> I ſay no more, but when we have done all, <hi>caſt out the Gen<g ref="char:EOLhyphen"/>tiles,</hi> and <hi>frayed away the hornes,</hi> if then we ſhall turne to puſh, and gore, and caſt out our brethren, and one another, God will finde it out, and will not put it up at <hi>Englands</hi> hands. Wherefore (my beloved) in the feare of God let us all remember this Caution, Oh take heed that the ſpirit of the <hi>horne</hi> doe not dwell in the <hi>carpenters;</hi> And ſo I come to the third Viſion, <hi>A man with a meaſuring line in his hand,</hi> and the third Doctrine, which is this,</p>
+            <p>
+               <hi>When God ſhall raiſe up his Carpenters againſt his Churches</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> 
+               <hi>enemies, then, and then eſpecially Reformation is to be laid unto the line.</hi> You ſee how theſe three viſions are knit together, one following immediately upon another, ſhewing not the coherence of the words onely, but of the matter: The Do<g ref="char:EOLhyphen"/>ctrine therefore falleth aſunder into two Propoſitions.</p>
+            <p n="1">1. <hi>Stones of reformation are to be laid with moſt exactnes.</hi>
+               <note place="margin">1. Prop. 2.</note>
+            </p>
+            <p n="2">2. <hi>When God raiſeth up his Carpenters againſt his Churches enemies, then, and then eſpecially this exact reformation is to be much endeavoured.</hi>
+            </p>
+            <p n="1">1. Stones of reformation are to be laid with moſt exact<g ref="char:EOLhyphen"/>nes.<note place="margin">Propoſ. 1. Reaſ. 1.</note> 1. Temple work is a great work and of great conſe<g ref="char:EOLhyphen"/>quence. When the matter that a man is to work upon is precious, the eye curious and exact that he is to work unto, and the work it ſelf of infinite conſequence, there exactnes is much required, eſpecially when a miſcarriage can hardly be mended but with much difficulty. Now ſo it is in the work of reformation, the matter to be wrought upon are the ſoules of men and women, the moſt precious matter in the world; the eye that we are to work unto is Gods, is Chriſts, who walketh between the golden Candleſtickes; And the buſines it ſelf is of infinite conſequence, yours and mine and thouſands eternities lying at the ſtake; And if there be a miſ<g ref="char:EOLhyphen"/>carriage, it will be a hard thing to bring the whole Nation unto the work again. You ſee that when a man walketh upon the rope, he carryeth a pole in his hand to ſway him, and he lookes diligently to his feet, <hi>Quia non licet his peccare,</hi> be<g ref="char:EOLhyphen"/>cauſe
+<pb n="22" facs="tcp:111601:16"/> if he do fayle he cannot mend his miſcarriage; And I ſay that in this work of reformation if there be the leaſt ſlip; it will be a hard thing to r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cover it, when once a nation is ſetled in that miſcarriage. Surely therefore the work is to be done with the moſt exactnes.</p>
+            <p n="2">2. It is onely exactnes that doth cauſe conviction in thoſe <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> that do behold. There is no Nationall Reformation but the eyes of Nations are upon it. Give me leave to tell you what I have read in a letter written from a learned Profeſſour of Divinity in an Vniverſity beyond the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as, who writes thus to England: Upon your reformation (ſaith he) if happily per<g ref="char:EOLhyphen"/>formed,<note place="margin">
+                  <hi>A <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap> ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ari.</hi> D. V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> et.</note> doth depend the reformation of all the Churches in Chriſtendom as upon a Rule and Exemplar. So that I ſay there is no reformation on foot in any Nation but the eyes of other Nations are upon it; If it be done exactly, the behold<g ref="char:EOLhyphen"/>ing Nations will alſo come in, and ſay, We will take hold of your skirt, and your God ſhall be our God. When Judah ſhineth, and Gods glory reſteth upon them, then Nations come in and joyne themſelves unto them; <hi>Eſa.</hi> 60. 1, 2, 3. It is onely beauty that doth take the eye; when there is no beauty, there is no allurement; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, beautifull, comes from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies to call, becauſe beauty cals forth the eye a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d holds it in its beams; Now 4. things muſt concur to beau<g ref="char:EOLhyphen"/>ty. 1. There muſt be all the parts. 2. All in their proportion. 3. All in their due place. 4. All laid over with a ſweet and lively colour. So it is in the beauty of Gods houſe; There muſt be all the ordinances, all in their place, all in due proportion<g ref="char:punc">▪</g> and laid over with the power of godlines. When theſe meet in any Church, there is beauty; but meet they cannot, unleſſe there be exactnes in reforming. Surely therefore ſtones of reformation are to be laid with moſt exactnes.</p>
+            <p>But what reaſon is there of the ſecond Propoſition, which <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> is, that then this exact reformation is eſpecially to be endea<g ref="char:EOLhyphen"/>voured, <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>2</label> when God ſhall raiſe up his Carpenters againſt the Churches enemies? for when the Carpenters do ariſe, the ti<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>s are troublous.</p>
+            <p>True, they are indeed. But God chooſeth troublous times <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+               <pb n="23" facs="tcp:111601:16"/> to build in both his houſe and walls of the City. The<note place="margin">
+                  <hi>Eccleſia tunc ſemper fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t op<g ref="char:EOLhyphen"/>tima quando a<g ref="char:EOLhyphen"/>gebat inte peſ<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>os.</hi> Luth.</note> Churches have alwayes loſt moſt in times of peace, and gain<g ref="char:EOLhyphen"/>ed moſt in times of trouble. Whileſt the 10. Perſecutions conti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ued, the integrity of the Church<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s was beſt preſerved. The Pſalmiſt ſaith, <hi>Send out thy light and thy truth, O Lord,</hi>
+               <note place="margin">Pſal. 43. 4.</note> 
+               <hi>and let them leade me unto thine Altar.</hi> There is no going unto Gods Altar with worſhip, without the leading hand of truth, and there is no building Gods houſe for an Altar with<g ref="char:EOLhyphen"/>out light. When God made the world, he firſt made light on the firſt day, as an example unto us in all our workes to work by light. Now light and truth do break forth much in troublous times.</p>
+            <p n="1">1. Troublous times are praying times, and praying times <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> are knowing times. <hi>Prov. 2. 3, 4, 5. If thou cryeſt after know<g ref="char:EOLhyphen"/>ledge, and lifteſt up thy voyce for underſtanding, if thou ſeekeſt her as ſilver and ſearcheſt for her as for hid treaſures, then ſhalt thou underſtand the feare of the Lord and finde the knowledge of God.</hi>
+            </p>
+            <p n="2">2. In troublous times mens hearts are moſt low and <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbled, and ſo more apt and ready to receive and to be led into any truth. You read in <hi>Eſa.</hi> 11. that God promiſeth that in the latter times <hi>the whole earth ſhall be filled with the knowledge of the Lord;</hi> and in the verſes a little before, it is ſaid of the Lion and the young Lion <hi>that a child ſhall lead them;</hi> theſe two go well together, but the ſtout Lion-like ſpirit will never be led by the hand of a ſucking child till it be brought down and low by troublous time.</p>
+            <p n="3">3. In troublous times God is pleaſed to communicate <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> himſelf more freely to his people. God is not unto his in affliction as at other times: he is moſt ſweet when the world is moſt bitter. It is with a Nation, Church<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; people in their reformation, as with a perſon in his firſt converſion; becauſe of thoſe many temptations that a converting perſon is to con<g ref="char:EOLhyphen"/>flict withall, God doth more abundantly reveal and commu<g ref="char:EOLhyphen"/>nicate himſelf unto him at his firſt converſion; ſo with a re<g ref="char:EOLhyphen"/>forming people, becauſe of thoſe many oppoſitions that they ſhall meet withall in that work, God doth then more then
+<pb n="24" facs="tcp:111601:17"/> ordinarily communicate himſelf unto them. Thus troublous times do bring forth light and truth. God loveth to have a ſacrifice from the hands of the children of <hi>Abraham</hi> out of the thickets and bryars. Oppoſition commendeth reformation, in troublous times there is much oppoſition, and therefore in thoſe times reformation is very beautifull. The Doctrine is clear then, the application eaſie. Thus.</p>
+            <p>Hence we may all ſee and know what is the work of the<note place="margin">App<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> times, even to meaſure the Temple. Now for a long while we have had experience of the firſt Viſion, and we have felt the hornes; the riſing of the carpenters we have ſeen alſo: And who may not ſay, <hi>I have lift up mine eyes, and behold, a man with a meaſuring line in his hand?</hi> Bleſſed be God that we have lived to ſee this day, to ſee a man ſtand with a meaſuring line in his hand in England. And who ever you are that heare me this day, you are either ſuch as have this <hi>meaſuring line</hi> in your hands, or elſe ſuch as are to be mea<g ref="char:EOLhyphen"/>ſured.</p>
+            <p>If you have the <hi>meaſuring line</hi> in your hands, then remem<g ref="char:EOLhyphen"/>ber <milestone type="tcpmilestone" unit="unspecified" n="1"/> this Doctrine, the firſt Propoſition, <hi>Stones of Reformati<g ref="char:EOLhyphen"/>on are to be laid with moſt exactneſſe.</hi> Herein if you be exact, you ſhall be like unto Jeſus Chriſt, who (as <hi>Salmeron</hi> ob<g ref="char:EOLhyphen"/>ſerveth) when he came to purge the Temple, did not onely admoniſh, chide, reprove the money-changers, or whip them away, but did overthrow their very Tables, <hi>Ne impi<g ref="char:EOLhyphen"/>um opus facile repeterent,</hi> Leſt they ſhould recover their trade<note place="margin">
+                  <hi>Sac<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dot<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in Templ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dentes ſu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>gellorum d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi> S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ner<g ref="char:punc">▪</g> in Joan. 3.</note> againe. In other things you are very exact, men are exact in their trades, exact in their accounts, exact in their recko<g ref="char:EOLhyphen"/>nings, exact in their diet, exact in their ſleep, exact in their haire both of head and face; In ſmall things you are exact, and will you not be exact in this greateſt? You know what other Reformed Churches have done, the Reformation of all other Churches are round about you, you have their wri<g ref="char:EOLhyphen"/>tings before you, their books, their practices, their exam<g ref="char:EOLhyphen"/>ples, and this for many yeeres; can you think that God hath ſet us now for an hundred yeeres upon their ſhoulders, to ſee no farther into Reformation then they have done? If two
+<pb n="25" facs="tcp:111601:17"/> men be to do the ſame work, the one firſt and the other after; he that doth it firſt though he doth it never ſo well, yet will excuſe himſelf and ſay, I never ſaw he work done before me, I was faine to invent my very tooles and inſtruments; and you will excuſe him though there be ſome fayling in him: But when the ſecond man commeth to the ſame work that hath a former example, and all his tooles to help him, you expect more exactnes from him. You know my meaning, I need not apply this; Oh that our God would make Eng<g ref="char:EOLhyphen"/>land the praiſe of the whole earth! Nothing will do it but our exactnes in reformation. Certainly this reformation that is now on foot, hath (as I may ſpeake with reverence) coſt our God very dear, the liberties, the eſtates, the lives and bloods of many of his deare children, of whom <hi>the world was not worthy.</hi> Do you think God will lay out all this for an imperfect, unexact, poor and low reformation? Let me pre<g ref="char:EOLhyphen"/>ſent you with the propheſy of Biſhop <hi>Hooper,</hi> who when he was in priſon called his Printer to him, and ſaid, You ſhal out<g ref="char:EOLhyphen"/>live theſe <hi>Marian</hi> times, and ſee the alteration of the preſent religion, when the Goſpel ſhall be freely preached, wherefore remember me to my brethren as well in exile as others, and bid them be circumſpect in diſplacing of Popiſh Prieſts, and put good Miniſters in Churches, or elſe their end will be worſe then ours. He ſaid, be circumſpect; I ſay, be exact; And though I do not wiſh that every morning there might be a boy crying at your doors as once at <hi>Philips, Mortalises,</hi> thou art mortall, thou art mortall; for that the Drum doth ſufficiently every morning; yet I could wiſh that this ſen<g ref="char:EOLhyphen"/>tence might be ſounding in your hearts every morning and night, that it might lie down with you and riſe with you, <hi>ſtones of reformation are to be laid with moſt exactnes.</hi>
+            </p>
+            <p>But how ſhall that be? <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label>
+            </p>
+            <p>Thus. 1. Be ſure of this that you take the right <hi>line</hi> into <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> your hands. Gods word it is our <hi>line,</hi> able to reach unto all particular affaires of the Churches.</p>
+            <p>Miſtake me not, I pray. A Church is conſidered two wayes; As a meeting of people, men and women; O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as a Church
+<pb n="26" facs="tcp:111601:18"/> meeting, a meeting of Saints, apparent Beleevers, <hi>coe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us ſide<g ref="char:EOLhyphen"/>lium.</hi> I doe not ſay that the Word is to be the onely line and rule to the Church in the firſt reſpect, ſo reaſon may be a rule to men as men; but in the ſecond reſpect it is, the Word is able to reach unto all things belonging unto a Church as a Church. Our Commiſſion is not larger now then the A<g ref="char:EOLhyphen"/>poſtles Commiſſion was, and their Commiſſion ran thus, <hi>Goe teach and baptize, &amp;c. teaching men to obſerve what ever I command you, Mat.</hi> 28. If not commanded by Chriſt, then not to be preached by them nor by us. Jeſus Chriſt was and is as fully Chriſt in his Propheticall as Prieſtly office, and his Prieſtly ſatisfaction reached unto all our ſinnes, though they were never ſo ſmall, therefore his Propheticall dire<g ref="char:EOLhyphen"/>ction reacheth to all our du<g ref="char:EOLhyphen"/>ties,<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </note> though they be never ſo little. That which com<g ref="char:EOLhyphen"/>meth not from heaven, can never bring you into heaven. If you ſay, There are ſome things indifferent; It is true, but Chriſts command is to keep them ſo then, and not to alter them. If you ſay that Circumſtances are left unto the Church; Either you meane all Circumſtances, or ſome; If you meane onely ſome, then you conclude no<g ref="char:EOLhyphen"/>thing, for a particular Propoſition cannot make a generall Concluſion; If you meane that all Circumſtances are left unto the Church, then you doe at once and at one ſtroke cut off three Commandements from the Decalogue; the firſt Commandement, <hi>Thou ſhalt have no other Gods but me,</hi> commandeth the ſubſtance of worſhip, the ſecond the means, the third the manner, the fourth the time; and meanes, man<g ref="char:EOLhyphen"/>ner,<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </note> and time are circumſtances. Herein <hi>Luther</hi> ſpeaks well, Whatſoever a man beleeveth, or learneth, or teacheth be<g ref="char:EOLhyphen"/>ſides
+<pb n="27" facs="tcp:111601:18"/> the Word, it is ſinne; and againe ſaith he, The Church<note place="margin">
+                  <hi>Non enim no<g ref="char:EOLhyphen"/>ſtro <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>udicio in<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>nda eſt Rel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, ſed e <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Dei. Om<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a perver<g ref="char:EOLhyphen"/>tunt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, cum Religio non verbo Dei, ſed hominum a bit<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itur.</hi> Jew<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, Conci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ad Clerum de verbo Dei.</note> is the daughter of Scripture, brought up at the fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the Word. O the perfection of that <hi>line!</hi> it is a compleat line, a glorious line, a bleſſed line. Take this line therefore firſt into your hands.</p>
+            <p n="2">2. When you have gotten this line into your hand, view your ground well, and ſtones well that you are to draw this <hi>line</hi> over. Three ſorts there are that are eſpecially to be lined by it: The Magiſtrates, the Miniſters, the Congrega<g ref="char:EOLhyphen"/>tions. Theſe three the Pope and Prelats, notwithſtanding their ſlattering with Princes, have eſpecially laboured to de<g ref="char:EOLhyphen"/>grade and to deprive of that power which was given unto them by Jeſus Chriſt. 1. The Magiſtrates, and therefore the <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>man of ſin</hi> is ſo deſcribed by the Apoſtle, that he <hi>ſhall exalt<note place="margin">1 Theſſal. 2. 4.</note> himſelfe above all that is called God.</hi> 2. The Miniſters and <milestone type="tcpmilestone" unit="unspecified" n="2"/> Elders of the Church, and therefore you ſhall obſerve that from the 7. Chapter of the <hi>Revelation</hi> to the 14. there is no more mention made of Elders (unleſſe it be in relation unto that ſame time:) In the 4. Chapter the condition of the Church is ſtated, and then the Elders are mentioned; ſo a<g ref="char:EOLhyphen"/>gaine in the 5. and 7. but in the after Chapters to the 14. you have the ſtory of Antichriſt, his riſe, his reigne and ruine; and till the fall of Antichriſt (which is begun in the 14. and <milestone type="tcpmilestone" unit="unspecified" n="3"/> perfected in the 18.) we reade no more of the Elders; but in the beginning of the 19. after <hi>Babylon</hi> is falne, then come forth the Elders againe, praiſing God, and with great joy. So in our Service-book, the Collect runs thus, <hi>Send down up<g ref="char:EOLhyphen"/>on our Biſhops and Curats, &amp;c.</hi> as if Miniſters and Elders were onely Biſhops Curats, and had no power but under them. 3. The Congregations alſo have been much oppreſ<g ref="char:EOLhyphen"/>ſed by them, therefore <note n="*" place="margin">Non i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in<g ref="char:EOLhyphen"/>ſiciamu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ete<g ref="char:EOLhyphen"/>rem ritum ac mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Epiſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pos <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ligend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, quo pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>be prae<g ref="char:EOLhyphen"/>ſent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, im<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſius ſuffragi<g ref="char:EOLhyphen"/>is aliquand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ligebantur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nam in Africa illum moremobſervatum eſſe conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at ex electione Eradii ſucceſſoris S. Auguſt. in Graecia <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tate S. Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yſoll. ex libro eſus 3. de ſacerdote: qua quidem eligendi Epiſcopi ra<g ref="char:EOLhyphen"/>tio uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad Gregorium I. ut conſtat ex ejus epiſtolis, im<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; ad Caroli Magni, &amp; Ludovici R. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Imperatorum uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tempor a perduravit. <hi>Azor. inſtit. Morab. p. 2. l. 3. c. 28.</hi>
+               </note> 
+               <hi>Azorius</hi> the Jeſuite profeſſeth inge<g ref="char:EOLhyphen"/>nuouſly
+<pb n="28" facs="tcp:111601:19"/> that untill <hi>Gregory</hi> the firſt, and <hi>Charles</hi> the Great, the Congregations had the power of chuſing their owne Mi<g ref="char:EOLhyphen"/>niſters; ſince Antichriſts power the Congregations have loſt their power.</p>
+            <p>Now bel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved in the Lord, there is none of all theſe three but have ſome power about Church-affaires; the Magiſtrate he hath his power, and therefore he is called a <hi>nurſing Fa<g ref="char:EOLhyphen"/>ther;</hi> the Miniſter and Elder, he hath his power, therefore he is commanded <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſignifi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th both to feed and rul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; The Con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gation hath its power, and therefore well ſaith that bleſſed and learned man D. <hi>Whitaker,</hi> who is now in H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aven: If you conſider<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </note> the government of the Church in regard of its Head Chriſt, ſo it is Monarchicall; if in re<g ref="char:EOLhyphen"/>gard of the Elders, ſo it is A<g ref="char:EOLhyphen"/>riſtocraticall; if in regard of the people who have a power to chooſe their own Officers; it is Democraticall: Whether this power of theirs be a mat<g ref="char:EOLhyphen"/>ter of priviledge or of juriſ<g ref="char:EOLhyphen"/>diction, I diſpute not now; but a power they have: a po<g ref="char:EOLhyphen"/>wer the People, a power the Miniſter and Elder, a power the Magiſtrate; and if your <hi>line</hi> can be ſo drawn, as that every one of theſe three may have that native power which Jeſus Chriſt hath left them by legacie, then have you drawn your line aright: view there<g ref="char:EOLhyphen"/>fore your ground well.</p>
+            <p n="3">3. Which that you may doe, in the third place take heed of ſelfe-ingagements and ſelf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-reſpects in this worke of Re<g ref="char:EOLhyphen"/>formation. <hi>Veritas ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in aperto Campo,</hi> the truth ſtands in the open <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ield, it ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es no houſe, it ſees no friend, no home; And if your eye be upon your engagements, your hand will draw the Line awry. <hi>Chryſoſtome</hi> obſerveth, that when our
+<pb n="29" facs="tcp:111601:19"/> Saviour propoundeth the Parable of the husbandmen unto<note place="margin">Mat. 21. 41.</note> the Scribes and Phariſees, ſaying, <hi>What ſhall bee done to theſe Hu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bandmen?</hi> The Jews anſwered, <hi>He ſhall miſerably deſtroy</hi>
+               <note place="margin">Luke 20. 16.</note> 
+               <hi>thoſe Husbandmen;</hi> yet in another Goſpel when our Saviour ſaith, <hi>he ſhall miſerably deſtroy them,</hi> the Jews anſwered, <hi>God forbid:</hi> In one Goſpel their anſwer is related to be, <hi>He ſhall miſerably deſtroy them;</hi> in the other Goſpel their anſwer is related on the contrary, <hi>God forbid.</hi> How can theſe agree? Yes, ſayes <hi>Chryſoſtome,</hi> for firſt they ſay, <hi>he will miſerably deſtroy theſe husbandmen;</hi> but when they perceived that Chriſt aymed at them, then they ſaid, <hi>God forbid.</hi> So miſ<g ref="char:EOLhyphen"/>leading are all ſelf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-reſpects and ingagements in receiving the truth; Reforming perſons therefore muſt be ſelfe-deny<g ref="char:EOLhyphen"/>ing perſons.</p>
+            <p n="1">1. They muſt deny their owne wits, underſtandings, rea<g ref="char:EOLhyphen"/>ſonings, though they be never ſo plauſible; <hi>Da mihi baptiza<g ref="char:EOLhyphen"/>tam rationem,</hi> Give me baptized reaſon, ſaith one, mortified reaſon. Naturall reaſon may be a <hi>drawer of water</hi> unto the Temple, but no Officer in the Temple.</p>
+            <p n="2">2. They muſt deny their owne wils and affections, though they be never ſo ſtrong. The Saints in Heaven are the leaſt proprietaries to their owne wils, and yet moſt happy. Our<note place="margin">
+                  <hi>Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i voluntati propria non di<g ref="char:EOLhyphen"/>vinae obedit, ſibi parit rui<g ref="char:EOLhyphen"/>nam.</hi> Mendoza.</note> Saviour ſayes, <hi>I am not come to doe my owne will, but the will of him that ſent me;</hi> and this muſt be the reſolution and pra<g ref="char:EOLhyphen"/>ctiſe of all thoſe that are ſent by God upon any ſervice.</p>
+            <p n="3">3. They muſt deny their owne labours though they be ne<g ref="char:EOLhyphen"/>ver ſo great: So did <hi>Paul,</hi> who though <hi>hee laboured more abundantly then all,</hi> yet ſayes, <hi>I am the leaſt of all the Apoſtles.</hi> I have read or heard a ſtory of one being in the boat where the Kings <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rowne was, and the Crowne falling occaſional<g ref="char:EOLhyphen"/>ly into the water, he leaped after it, and having recovered it, to ſave himſelfe and it, he put the Crowne upon his owne head, that ſo he might ſwimme the better unto the boat or land; but though <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was thanked for his venture, yet he was ſharply reproved for his boldneſſe, for putting the Crowne upon his owne head. The caſe is ours, is yours, the Crowne of the Lord Jeſus hath as it were fallen into the water, and
+<pb n="30" facs="tcp:111601:20"/> beene ready to ſinke; it is your duty and practiſe to venture for to ſave it, but you muſt not th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſet the Crowne upon the head of your owne labours, but upon Chriſt himſelfe. <hi>The foure and twenty Elders threw down their Crownes at the feet of Chriſt,</hi> Revel. 4.</p>
+            <p n="4">4. They muſt deny their own enjoyments, comforts and contentments, though they be never ſo ſweet. So <hi>Nehemi<g ref="char:EOLhyphen"/>ah</hi>
+               <note place="margin">
+                  <hi>Nullu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n<g ref="char:EOLhyphen"/>tem exci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>abit niſi <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>one ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> Auguſt.</note> denied his Court favours, his Governours table, and ſome<g ref="char:EOLhyphen"/>times to ſhift his own cloathes: he that will lift up one that is fallen muſt ſtoop himſelf.</p>
+            <p n="5">5. They muſt deny their own relations though they be never ſo neare. <hi>Salmeron</hi> obſerveth that our Saviour Chriſt did ſtill call his Mother <hi>Woman, Woman what have I to do with thee?</hi> not Mother, but woman; Why ſo, ſaies he, but to<note place="margin">
+                  <hi>In ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſan<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> non eſſe <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi> Salmeron.</note> ſhew that in matter of Religion we are to know no relati<g ref="char:EOLhyphen"/>ons. Thus muſt all reforming perſons be ſelf-denying per<g ref="char:EOLhyphen"/>ſons. And thus right worthy <hi>Zerubbabels,</hi> if you do firſt take the right line into your hands, then view your ground well, giving unto every one thoſe immunities that Chriſt hath left him, and deny your ſelves in working, your own reaſons, wiſdomes and underſtandings, your own affections, your own labours, your own outward contentments and all relations, I make no queſtion but our ſtones of reformation ſhall be laid with much exactnes and the Lords bleſſing; And the Lord grant it may be ſo.</p>
+            <p>As for theſe that are to be meaſured, let them be willing to <milestone type="tcpmilestone" unit="unspecified" n="2"/> be meaſured, to be reformed, exactly reformed, willing to be fully meaſured. Wonder not that I call upon you to be willing; I ſhall tell you what I read concerning <hi>Beza,</hi> who comming unto a diſputation before the Court of France, and being very mighty in his arguments againſt the adverſary, a Cardinall ſtood up and ſaid unto ſome Peers, I would to God that either <hi>Beza</hi> were dumbe, or that we were all deafe; ſo unwilling were they to receive the truth, and to be reformed by it. And if people did not in their hearts wiſh as much now, why ſhould they ſay in every place, Would to God we had never medled with this work of reformation, here is ado
+<pb n="31" facs="tcp:111601:20"/> about reformation and exact reformation, ſee what it is come to, would to God that we had ſtaied in our old condi<g ref="char:EOLhyphen"/>tion! Oh my beloved, do you not remember Chriſts com<g ref="char:EOLhyphen"/>plaint? <hi>I came unto my own and my own received me not.</hi> Shall Jeſus Chriſt take up the like complaint and ſay, I came unto my own in England and they received me not; I offered, I tendered my own government unto them, and they would none of it? Oh England, England, how long have I ſtood knocking at thy door, and as it were put my finger in at the hole of the door by my providentiall workes! Wilt not thou yet open unto me? How often would I have gathered thee under my wings as a hen gathereth her chickens, and thou wouldeſt not? Wherefore now thy houſe is left unto thee deſolate. Oh that people therefore would be willing! Yea, go to God and ſay, Behold Lord we are all here before thee, doe with us what is good in thine eyes, onely mea<g ref="char:EOLhyphen"/>ſure us, meaſure my family, meaſure my children, meaſure my ſervants, meaſure my ſelf, onely let the line of reforma<g ref="char:EOLhyphen"/>tion paſſe over me and mine; I am willing Lord, help my un<g ref="char:EOLhyphen"/>willingnes.</p>
+            <p>Then ſecondly, if ever God ſhall pleaſe to bring you unto the haven of your deſires, reformation in exactnes, Chriſt in his own governement into your congregations, be ſure that you lay faſt hold of him, that he may never leave you or go from you any more. When the Spouſe in the <hi>Canticles</hi> had loſt Chriſt, ſhe goes bemoaning, lamenting, crying and en<g ref="char:EOLhyphen"/>quiring after him; when ſhe had found him, ſhe brings him into the chamber of her Mother, and ſayes, <hi>I charge you O ye daughters of Ieruſalem, I charge ye by the Roes and by the Hinds that ye awake not my beloved untill he pleaſe.</hi> So do you, if ever you light on Jeſus Chriſt again, a ſetled Goſpel, carry him, oh carry him into the Chamber of your Mother as it were, and ſay unto all your freinds, neighbours and con<g ref="char:EOLhyphen"/>gregations, I charge ye oh ye daughters of England, yea by the Roes and Hinds of the fields, I charge ye oh ye daughters of England, that ye awake not my beloved untill he pleaſe. This do hereafter, and for the preſent ingage your ſelves there<g ref="char:EOLhyphen"/>unto.</p>
+            <p n="3">
+               <pb n="32" facs="tcp:111601:21"/>3. In the meane while that you may do and have all this, now pray, pray alone and pray in company, pray in publique, pray in private. The <hi>man with a meaſuring line in his hand,</hi> ſaies pray, your <hi>Carpenters</hi> that are abroad in the field ſay pray; the examples of all reformed Churches ſay pray; your Parliament ſay pray; your Aſſembly ſay pray; your lives, your liberties, your Goſpel, your all, ſayes pray: Oh you that have any credit in Heaven pray now, you that never prayed before, pray now; It is but one houre and the work is done; Can ye not watch with Jeſus Chriſt one houre? <hi>watch and pray:</hi> And that I ſay unto one I ſay unto all, and unto my own ſoul, <hi>Let us all watch and pray leſt we enter into temp<g ref="char:EOLhyphen"/>tation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
